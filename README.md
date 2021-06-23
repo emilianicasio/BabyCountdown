@@ -1,2 +1,2 @@
 # BabyCountdown
-Due date calculator. Web page
+This repo contains a Web page to calculate days hours and minutes until a birth due date.

@@ -164,3 +164,49 @@ h2{
     font-size: 0.8rem;
     align-self: start;
 }
+
+/*QUERIES*/
+
+@media only screen and (max-width: 980px){
+    .main-section{
+        width: 100vw;
+    }
+    .header{
+        width: 60%;
+    }
+}
+
+@media only screen and (max-width: 780px){
+    .header{
+        width: 80%;
+    }
+}
+
+@media only screen and (max-width: 650px){
+    .header{
+        width: 80%;
+    }
+    .tittle {
+        font-size: 2.5rem;
+    }
+    p{
+        font-size: 1.5rem;
+    }
+    h2{
+        font-size: 3rem;
+        margin-bottom: 0;
+    }
+}
+
+@media only screen and (max-width: 650px){
+
+    .tittle {
+        font-size: 2rem;
+    }
+    p{
+        font-size: 1rem;
+    }
+    h2{
+        font-size: 3rem;
+        margin-bottom: 0;
+    }}
